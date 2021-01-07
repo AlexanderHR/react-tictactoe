@@ -1,0 +1,16 @@
+.square__block {
+  width: 60px;
+  height: 60px;
+  background-color: #188ed3;
+  margin: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  transition: transform 450ms;
+}
+.square__block:hover {
+  transform: scale(1.08);
+}
