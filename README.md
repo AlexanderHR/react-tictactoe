@@ -1,5 +1,7 @@
 # Tic Tac Toe with React
 
+![](public/tictactoe.gif)
+
 To clone and edit the project, you will need:
 
 Clone this repo:
